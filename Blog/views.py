@@ -63,4 +63,7 @@ def postComment(request):
             return redirect(f'/blog/{post.slug}')
         
     return HttpResponse('404 - Плохой запрос!')
-    
+
+
+#asdasd
+#update
